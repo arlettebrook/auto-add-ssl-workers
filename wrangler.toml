@@ -1,0 +1,6 @@
+name = "auto-add-ssl-workers"
+main = "auto-add-ssl-workers.js"
+compatibility_date = "2025-10-25"
+
+# 如果使用 environment variables，请在 Cloudflare Dashboard 或 Wrangler secrets 中设置
+# 例如： wrangler secret put DATABRICKS_TOKEN
